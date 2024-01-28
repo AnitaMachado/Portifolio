@@ -132,7 +132,7 @@ h1{
 #contact{
     margin-top: 10px;
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(1fr, 4);
     row-gap: 5px;
     column-gap: 5px;   
 }
